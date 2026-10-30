@@ -41,5 +41,3 @@ This hub compiles comprehensive hardware and software guidelines, including:
 
 This entire ecosystem is a non-commercial, hobbyist initiative born out of a personal challenge to blend classic embedded hardware principles with modern, powerful microcontrollers. Everything is open-source and shared under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license. Commercial distribution of bare PCBs, pre-assembled kits, or commercial derivatives is strictly prohibited without prior authorization.
 
-***
-*Developed with passion by **Jean Philippe Michon (JPMichon / Hackaday: BasementDreamer)** based in Montreal, Canada.*
