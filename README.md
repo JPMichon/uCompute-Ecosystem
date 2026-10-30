@@ -10,11 +10,11 @@ This repository acts as the central umbrella wiki and documentation hub, bridgin
 
 The ecosystem shares a common hardware DNA and is built around **uComputeOS** (a custom MicroPython visual GUI environment featuring runtime fault tolerance). It currently features 5 main hardware implementations, all fully open-source under the **CC BY-NC-SA 4.0** license:
 
-*   **💻 [RP2040 uCompute](https://github.com):** The foundation of the ecosystem. An autonomous, highly modular embedded development platform integrating extended storage (MicroSD, EEPROM), display options (IPS ST7789/OLED), and a versatile rear expansion socket for communication daughterboards.
-*   **🚀 [RP2350 uCompute2](https://github.com):** The next-generation evolution leveraging the raw hardware capabilities, security features, and expanded GPIO flexibility of the brand-new Raspberry Pi RP2350 chip.
-*   **🎓 [uCompute Junior](https://github.com):** A "Bring Your Own Pico" educational variant. It lowers the barrier to entry by removing complex SMD microchip soldering, opting for comfortable 0805 components. Perfect for hand-soldering initiation in schools and Fablabs.
-*   **🤖 [uCompute Rover](https://github.com):** A modular 4WD robotic platform driven by the uCompute core. It interfaces seamlessly with dual bridge motor drivers, ultrasonic sensors, time-of-flight lasers, and GPS modules for both RC-controlled and 100% autonomous navigation.
-*   **🕹️ [RetroPico (v1.x)](https://github.com):** A pocket-sized (60mm x 45mm) retro-gaming and vintage video emulation motherboard. Features a native analog VGA output (configurable monochrome/3-bit RGB), audio buzzer, and full USB-Host support to connect standard keyboards or gamepads.
+*   **💻 [RP2040 uCompute](https://github.comRP2040_uCompute):** The foundation of the ecosystem. An autonomous, highly modular embedded development platform integrating extended storage (MicroSD, EEPROM), display options (IPS ST7789/OLED), and a versatile rear expansion socket for communication daughterboards.
+*   **🚀 [RP2350 uCompute2](https://github.com/RP2350_uCompute2):** The next-generation evolution leveraging the raw hardware capabilities, security features, and expanded GPIO flexibility of the brand-new Raspberry Pi RP2350 chip.
+*   **🎓 [uCompute Junior](https://github.comuComputeJr):** A "Bring Your Own Pico" educational variant. It lowers the barrier to entry by removing complex SMD microchip soldering, opting for comfortable 0805 components. Perfect for hand-soldering initiation in schools and Fablabs.
+*   **🤖 [uCompute Rover](https://github.com/uCompute_Rover):** A modular 4WD robotic platform driven by the uCompute core. It interfaces seamlessly with dual bridge motor drivers, ultrasonic sensors, time-of-flight lasers, and GPS modules for both RC-controlled and 100% autonomous navigation.
+*   **🕹️ [RetroPico (v1.x)](https://github.com/RetroPico_V1.x):** A pocket-sized (60mm x 45mm) retro-gaming and vintage video emulation motherboard. Features a native analog VGA output (configurable monochrome/3-bit RGB), audio buzzer, and full USB-Host support to connect standard keyboards or gamepads.
 
 ---
 
