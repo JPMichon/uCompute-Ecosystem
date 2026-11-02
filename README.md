@@ -5,7 +5,7 @@ Welcome to the central repository for the **uCompute Ecosystem**, a fully open-s
 This repository acts as the central umbrella wiki and documentation hub, bridging together all hardware designs, custom firmware configurations, and software stacks across the entire ecosystem. Whether you are a seasoned engineer looking for a surface-mount soldering challenge, a retro-computing enthusiast, or an educator setting up a STEM workshop in a Fablab, this ecosystem adapts to your needs.
 
 ## Link to the Wiki
-👉 [**uCompute Ecosystem Wiki**](https://github.com/JPMichon/uCompute-Ecosystem/wiki) — Hardware specifications, OS guides, and project overview.
+👉 [**uCompute Ecosystem Wiki**](https://github.com/JPMichon/uCompute-Ecosystem/wiki) — Hardware, Guides, Games, and Test Code and more...
 
 ---
 
